@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/clean.png</file>
+    <file>images/export.png</file>
+    <file>images/Search.png</file>
+    <file>images/Configuration.png</file>
+    <file>images/oilpump.png</file>
+    <file>images/Retry.png</file>
+    <file>images/EPS_Start.png</file>
+    <file>images/Back.png</file>
+    <file>images/Store.png</file>
+    <file>images/Save.png</file>
+    <file>images/Load.png</file>
+    <file>images/Keyboard.png</file>
+    <file>images/Help.png</file>
+    <file>images/Continue.png</file>
+    <file>images/Reconnect.png</file>
+    <file>images/BoschLogo.png</file>
+    <file>images/rightdir.jpg</file>
+    <file>images/Franch.jpg</file>
+    <file>images/warnning.jpg</file>
+    <file>images/Turkish.jpg</file>
+    <file>images/Italy.jpg</file>
+    <file>images/german.jpg</file>
+    <file>images/startup.jpg</file>
+    <file>images/shutdown.png</file>
+    <file>images/help.jpeg</file>
+    <file>images/config.png</file>
+    <file>images/lang.jpeg</file>
+    <file>images/tel.jpg</file>
+    <file>images/lang1.jpg</file>
+    <file>images/us.jpg</file>
+    <file>images/japan.jpg</file>
+    <file>images/korea.jpg</file>
+    <file>images/china.jpg</file>
+    <file>images/zoomin.png</file>
+    <file>images/zoomout.png</file>
+    <file>images/EPS_Stop.png</file>
+    <file>images/cpyicon.png</file>
+  </qresource>
+</RCC>
